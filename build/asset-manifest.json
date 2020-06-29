@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mihaidragosradu/tictactoe.git/static/css/main.61057b28.chunk.css",
+    "main.js": "/mihaidragosradu/tictactoe.git/static/js/main.fbfc0f80.chunk.js",
+    "main.js.map": "/mihaidragosradu/tictactoe.git/static/js/main.fbfc0f80.chunk.js.map",
+    "runtime-main.js": "/mihaidragosradu/tictactoe.git/static/js/runtime-main.1cdd6624.js",
+    "runtime-main.js.map": "/mihaidragosradu/tictactoe.git/static/js/runtime-main.1cdd6624.js.map",
+    "static/js/2.8fd5545d.chunk.js": "/mihaidragosradu/tictactoe.git/static/js/2.8fd5545d.chunk.js",
+    "static/js/2.8fd5545d.chunk.js.map": "/mihaidragosradu/tictactoe.git/static/js/2.8fd5545d.chunk.js.map",
+    "index.html": "/mihaidragosradu/tictactoe.git/index.html",
+    "precache-manifest.456ec5f4f6e32c1161dcfeb862537d60.js": "/mihaidragosradu/tictactoe.git/precache-manifest.456ec5f4f6e32c1161dcfeb862537d60.js",
+    "service-worker.js": "/mihaidragosradu/tictactoe.git/service-worker.js",
+    "static/css/main.61057b28.chunk.css.map": "/mihaidragosradu/tictactoe.git/static/css/main.61057b28.chunk.css.map",
+    "static/js/2.8fd5545d.chunk.js.LICENSE.txt": "/mihaidragosradu/tictactoe.git/static/js/2.8fd5545d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cdd6624.js",
+    "static/js/2.8fd5545d.chunk.js",
+    "static/css/main.61057b28.chunk.css",
+    "static/js/main.fbfc0f80.chunk.js"
+  ]
+}
